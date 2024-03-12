@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21f64fa3-fe8b-4cee-8f8a-3d408f798775" name="Changes" comment="Created new project">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Aufgabe_1.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Aufgabe_1.sc" afterDir="false" />
+    <list default="true" id="21f64fa3-fe8b-4cee-8f8a-3d408f798775" name="Changes" comment="Completed excersice 1">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Aufgabe_2.sc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +86,7 @@
       <updated>1709627726610</updated>
       <workItem from="1709627728093" duration="3003000" />
       <workItem from="1710231466801" duration="65000" />
-      <workItem from="1710232370751" duration="85000" />
+      <workItem from="1710232370751" duration="222000" />
     </task>
     <task id="LOCAL-00001" summary="Created new project">
       <option name="closed" value="true" />
@@ -97,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709627990898</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Completed excersice 1">
+      <option name="closed" value="true" />
+      <created>1710232489933</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710232489933</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created new project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created new project" />
+    <MESSAGE value="Completed excersice 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed excersice 1" />
   </component>
 </project>
