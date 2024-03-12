@@ -1,9 +1,21 @@
-def calculateScore(word: String) = {
-  var score = 0
-  for (c <- word.toCharArray) {
-    score += 1
+object Main {
+  def main(args: Array[String]): Unit = {
+    println(calculateScore("imperative"))
+    println(wordScore("imperative"))
+    println(calculateScore("imperative") == wordScore("imperative"))
   }
-  score
-}
 
-def wordScore(word: String) = word.length
+  def calculateScore(word: String): Int = {
+    var score = 0
+    for (c <- word) {
+      if (c != 'a') {
+        score += 1
+      }
+    }
+    score
+  }
+
+  def wordScore(word: String): Int = {
+    word.count(_ != 'a')
+  }
+}
